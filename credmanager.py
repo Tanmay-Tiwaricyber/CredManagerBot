@@ -35,7 +35,7 @@ LOGIN_USERNAME, LOGIN_PASSWORD = range(3, 5)
 GET_APPNAME, GET_APP_USERNAME, GET_APP_PASSWORD = range(5, 8)
 
 # Configuration
-TOKEN = "7358425810:AAHt6K9nvyovwMGgCRqlRrPHfQgmZIZbN6g"
+TOKEN = "" #add your bot token
 DATA_DIR = "data"
 USER_FILE = os.path.join(DATA_DIR, "users.json")
 CRED_FILE = os.path.join(DATA_DIR, "credentials.json")
